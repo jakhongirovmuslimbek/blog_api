@@ -1,3 +1,5 @@
 venv
 schema.yml
 __pycache__
+posts/migrations
+posts/__init__.py
